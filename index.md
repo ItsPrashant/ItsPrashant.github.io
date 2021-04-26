@@ -1,6 +1,11 @@
 # Prashant Singh Chouhan
 
-## Welcome to GitHub Pages
+### About me:
+
+I am a second-year Ph.D. student at Northeastern University. I am a part of the HPC lab led by Dr. Gene Cooperman. My research interests are in Computer Systems, Operating Systems, High-Performance Computing, and Computer System Security. Most of my time is spent on terminal hacking, debugging, and developing different systems software. Most of my research in the initial years has been based on finding applications of checkpointing in software fuzzing, and extending the idea of MPI-agnostic, Network-Agnostic (MANA) checkpointing to production-level HPC applications. I am looking to collaborate with people in academia and industry whose research interests align in similar areas.
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ItsPrashant/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
